@@ -46,3 +46,4 @@ moraga_development
 moraga_test
 .ackrc
 spec/support/deprecation_shitlist.json
+config/deploy.rb
